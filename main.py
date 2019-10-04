@@ -38,11 +38,44 @@ for f in my_root.findall('ip_address'):
     print ('<tr>')
     print ('<td>' + my_no_d + '</td>')
     print ('<td>' + my_ssub + '</td>')
-    print ('<td>' + my_owner + '</td>')
-    print ('<td>' + my_remark + '</td>')
+
+    if my_owner is None: my_owner = ''
+
+    if my_remark is None: my_remark = ''
+    
+    print ('<td>' + str(my_owner) + '</td>')
+    print ('<td>' + str(my_remark) + '</td>')
     print ('</tr>')
 
 print ('</table>')
+
+print ('<table style="width:50%">')
+print ('<tr>'  )  
+print ('<td>ns1.time.net.my 203.121.16.85</td>')
+print ('<th rowspan="6">Public DNS Server</th>')
+print ('</tr>')
+print ('<tr>')
+print ('<td>ns2.time.net.my 203.121.16.120</td>')
+print ('</tr>')
+print ('<tr>')
+print ('<td>ns3.time.net.my 203.121.65.39</td>')
+print ('</tr>')
+print ('<tr>')
+print ('<td>ns4.time.net.my 203.121.65.30</td>')
+print ('</tr>')
+print ('<tr>')
+print ('<td>TATA DNS: 66.198.145.145</td>')
+print ('</tr>')
+print ('<tr>')
+print ('<td>192.168.242.15</td>')
+print ('<th>Internal office Pri DNS Server</th>')
+print ('</tr>')
+print ('<tr>')
+print ('<td>192.168.242.18</td>')
+print ('<th>Internal office Sec DNS Server</th>')
+print ('</tr>')
+print ('</table>')
+
 
 print ('</body>')
 print ('</html>')

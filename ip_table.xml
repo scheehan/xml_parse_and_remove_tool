@@ -3,20 +3,390 @@
 <ip_addresses>
         <ip_address>
                 <no>1</no>
-                <subnet_range>192.168.138.1 - 192.168.138.20</subnet_range>
-                <owner>batman</owner>
-                <remark>none</remark>
+                <subnet_range>10.47.8.1 - 10.47.8.15</subnet_range>
+                <owner>Reserved</owner>
+                <remark></remark>
         </ip_address>
         <ip_address>
                 <no>2</no>
-                <subnet_range>192.168.138.21 - 192.168.138.30</subnet_range>
-                <owner>superman</owner>
-                <remark>none</remark>
+                <subnet_range>10.47.8.16 - 10.47.8.31</subnet_range>
+                <owner>Reserved for Blade</owner>
+                <remark>10.47.8.21-22 [FortiGate 7K] \n
+10.47.8.23-24 [FortiGate 7K]</remark>
         </ip_address>
         <ip_address>
                 <no>3</no>
-                <subnet_range>192.168.138.31 - 192.168.138.40</subnet_range>
-                <owner>wonder woman</owner>
-                <remark>none</remark>
+                <subnet_range>10.47.8.32 - 10.47.8.47</subnet_range>
+                <owner>Teh Wei Yap</owner>
+                <remark></remark>
         </ip_address>
+        <ip_address>
+                <no>4</no>
+                <subnet_range>10.47.8.48 - 10.47.8.63</subnet_range>
+                <owner>Chan Eng Siang</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>5</no>
+                <subnet_range>10.47.8.64 - 10.47.8.79</subnet_range>
+                <owner>Chong Yoon Fui</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>6</no>
+                <subnet_range>10.47.8.80 - 10.47.8.95</subnet_range>
+                <owner>Jason Tan</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>7</no>
+                <subnet_range>10.47.8.96 - 10.47.8.111</subnet_range>
+                <owner>Teo Seong Seng</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>8</no>
+                <subnet_range>10.47.8.112 - 10.47.8.127</subnet_range>
+                <owner>Tam Kun Leong</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>9</no>
+                <subnet_range>10.47.8.128 - 10.47.8.143</subnet_range>
+                <owner>Consultant Team</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>10</no>
+                <subnet_range>10.47.8.144 - 10.47.8.159</subnet_range>
+                <owner>Consultant Team</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>11</no>
+                <subnet_range>10.47.8.160 - 10.47.8.175</subnet_range>
+                <owner>Shathish Kumar</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>12</no>
+                <subnet_range>10.47.8.176 - 10.47.8.191</subnet_range>
+                <owner>Ooi Soon Guan</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>13</no>
+                <subnet_range>10.47.8.192 - 10.47.8.207</subnet_range>
+                <owner>Cusapong Aunon</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>14</no>
+                <subnet_range>10.47.8.208 - 10.47.8.223</subnet_range>
+                <owner>Allan Christian</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>15</no>
+                <subnet_range>10.47.8.224 - 10.47.8.239</subnet_range>
+                <owner>Jonathan Koay</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>16</no>
+                <subnet_range>10.47.8.240 - 10.47.8.255</subnet_range>
+                <owner>praveen</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>17</no>
+                <subnet_range>10.47.9.0 - 10.47.9.14</subnet_range>
+                <owner>Siow Chee Han</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>18</no>
+                <subnet_range>10.47.9.15 - 10.47.9.30</subnet_range>
+                <owner>Michael Chu</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>19</no>
+                <subnet_range>10.47.9.31 - 10.47.9.46</subnet_range>
+                <owner>Pareena</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>20</no>
+                <subnet_range>10.47.9.47 - 10.47.9.62</subnet_range>
+                <owner>Jaycee Wong</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>21</no>
+                <subnet_range>10.47.9.63 - 10.47.9.78</subnet_range>
+                <owner>Tran Viet Tam</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>22</no>
+                <subnet_range>10.47.9.79 - 10.47.9.94</subnet_range>
+                <owner>Matt Chow</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>23</no>
+                <subnet_range>10.47.9.95 - 10.47.9.110</subnet_range>
+                <owner>Nyein Chann</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>24</no>
+                <subnet_range>10.47.9.111 - 10.47.9.126</subnet_range>
+                <owner>Chien Shing</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>25</no>
+                <subnet_range>10.47.9.127 - 10.47.9.142</subnet_range>
+                <owner>Alex Yap</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>26</no>
+                <subnet_range>10.47.9.143 - 10.47.9.158</subnet_range>
+                <owner>Gabriel Au Yong</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>27</no>
+                <subnet_range>10.47.9.159 - 10.47.9.174</subnet_range>
+                <owner>Heng Fook Yau</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>28</no>
+                <subnet_range>10.47.9.175 - 10.47.9.190</subnet_range>
+                <owner>Wilson Saw</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>29</no>
+                <subnet_range>10.47.9.191 - 10.47.9.206</subnet_range>
+                <owner>Patrick Cheng</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>30</no>
+                <subnet_range>10.47.9.207 - 10.47.9.222</subnet_range>
+                <owner>James Choa</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>31</no>
+                <subnet_range>10.47.9.223 - 10.47.9.238</subnet_range>
+                <owner>Anand</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>32</no>
+                <subnet_range>10.47.9.239 - 10.47.9.254</subnet_range>
+                <owner>Jayesh</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>33</no>
+                <subnet_range>10.47.9.255 - 10.47.10.13</subnet_range>
+                <owner>Satish Patni</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>34</no>
+                <subnet_range>10.47.10.14 - 10.47.10.29</subnet_range>
+                <owner>Muhammad Haiqal</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>35</no>
+                <subnet_range>10.47.10.30 - 10.47.10.45</subnet_range>
+                <owner>Mohamed Salman (IN)</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>36</no>
+                <subnet_range>10.47.10.46 - 10.47.10.61</subnet_range>
+                <owner>Rosalyn Ou (SG)</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>37</no>
+                <subnet_range>10.47.10.62 - 10.47.10.77</subnet_range>
+                <owner>Sarach (TH)</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>38</no>
+                <subnet_range>10.47.10.78 - 10.47.10.93</subnet_range>
+                <owner>Wisely Yang (TW)</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>39</no>
+                <subnet_range>10.47.10.94 - 10.47.10.109</subnet_range>
+                <owner>Tony Lin (TW)</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>40</no>
+                <subnet_range>10.47.10.110 - 10.47.10.125</subnet_range>
+                <owner>Ngan Heung Lok (HK)</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>41</no>
+                <subnet_range>10.47.10.126 - 10.47.10.141</subnet_range>
+                <owner>Gaurav Sharma</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>42</no>
+                <subnet_range>10.47.10.142 - 10.47.10.157</subnet_range>
+                <owner>Tushar Naik</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>43</no>
+                <subnet_range>10.47.10.158 - 10.47.10.173</subnet_range>
+                <owner>Rashmi Arora</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>44</no>
+                <subnet_range>10.47.10.174 - 10.47.10.189</subnet_range>
+                <owner>Jackie</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>45</no>
+                <subnet_range>10.47.10.190 - 10.47.10.205</subnet_range>
+                <owner>Kraven Loh</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>46</no>
+                <subnet_range>10.47.10.206 - 10.47.10.221</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>47</no>
+                <subnet_range>10.47.10.222 - 10.47.10.237</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>48</no>
+                <subnet_range>10.47.10.238 - 10.47.10.253</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>49</no>
+                <subnet_range>10.47.10.254 - 10.47.11.12</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>50</no>
+                <subnet_range>10.47.11.13 - 10.47.11.28</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>51</no>
+                <subnet_range>10.47.11.29 - 10.47.11.44</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>52</no>
+                <subnet_range>10.47.11.45 - 10.47.11.60</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>53</no>
+                <subnet_range>10.47.11.61 - 10.47.11.76</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>54</no>
+                <subnet_range>10.47.11.77 - 10.47.11.92</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>55</no>
+                <subnet_range>10.47.11.93 - 10.47.11.108</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>56</no>
+                <subnet_range>10.47.11.109 - 10.47.11.124</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>57</no>
+                <subnet_range>10.47.11.125 - 10.47.11.140</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>58</no>
+                <subnet_range>10.47.11.141 - 10.47.11.156</subnet_range>
+                <owner>Stan</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>59</no>
+                <subnet_range>10.47.11.157 - 10.47.11.172</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>60</no>
+                <subnet_range>10.47.11.173 - 10.47.11.188</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>61</no>
+                <subnet_range>10.47.11.189 - 10.47.11.204</subnet_range>
+                <owner></owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>62</no>
+                <subnet_range>10.47.11.205 - 10.47.11.220</subnet_range>
+                <owner>Reserved</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>63</no>
+                <subnet_range>10.47.11.221 - 10.47.11.236</subnet_range>
+                <owner>Reserved</owner>
+                <remark></remark>
+        </ip_address>
+        <ip_address>
+                <no>64</no>
+                <subnet_range>10.47.11.237 - 10.47.11.253</subnet_range>
+                <owner>Esxi VM LAB devices</owner>
+                <remark>10.47.11.252 [FortiSIEM-VA-410] \n
+10.47.11.251 [super-nix] \n
+10.47.11.237 - 10.47.11.247 [FortiPortal]</remark>
+        </ip_address>
+
 </ip_addresses>
