@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ip_addresses>
+        <ip_address>
+                <no>1</no>
+                <subnet_range>192.168.138.1 - 192.168.138.20</subnet_range>
+                <owner>batman</owner>
+                <remark>none</remark>
+        </ip_address>
+        <ip_address>
+                <no>2</no>
+                <subnet_range>192.168.138.21 - 192.168.138.30</subnet_range>
+                <owner>superman</owner>
+                <remark>none</remark>
+        </ip_address>
+        <ip_address>
+                <no>3</no>
+                <subnet_range>192.168.138.31 - 192.168.138.40</subnet_range>
+                <owner>wonder woman</owner>
+                <remark>none</remark>
+        </ip_address>
+</ip_addresses>
