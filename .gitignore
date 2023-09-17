@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# local stuff
+ip_table.xml
+ttttt.py
+uuuuuu.py

@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 tree = ET.parse('sample.xml')
 my_root = tree.getroot()
 
-a = my_root.find('a')
+a = my_root.find('nasi')
 b = ET.SubElement(a, 'b')
 c = ET.SubElement(b, 'c')
 c.text = 'text3'
