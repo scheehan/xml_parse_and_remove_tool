@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Fortinet Firmware Updates</title>
+<link>http://support.fortinet.com/</link>
+<description><![CDATA[Updates for the latest firmware and patches for Fortinet products.]]></description>
+<lastBuildDate>Wed, 3 Apr 2024 19:06:28 GMT</lastBuildDate>
+<item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>FortiSOAR 7.5.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description>&lt;p&gt;FortiSOAR 7.5.0 B4015 and release notes are available for download from the Support site : &lt;a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"&gt;https://support.fortinet.com&lt;/a&gt;&lt;/p&gt;</description>
+<pubDate>Wed, 3 Apr 2024 19:06:28 GMT</pubDate>
+<guid isPermaLink="false">Wed, 3 Apr 2024 19:06:28 GMT</guid>
+</item>
+<item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>FortiADC 7.4.3</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description>&lt;p&gt;FortiADC 7.4.3 B0336 and release notes are available for download from the Support site : &lt;a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"&gt;https://support.fortinet.com&lt;/a&gt;&lt;/p&gt;</description>
+<pubDate>Tue, 2 Apr 2024 21:18:30 GMT</pubDate>
+<guid isPermaLink="false">Tue, 2 Apr 2024 21:18:30 GMT</guid>
+</item>
+</channel>
+</rss>

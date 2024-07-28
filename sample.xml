@@ -1,16 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 
-<foods>
-    <food category="Guest" name="Ali">
-        <name>Nasi Lemak</name>
-        <description>consists of fragrant rice cooked in coconut milk and pandan leaf.</description>
-        <location>Kuala Lumpur/Malaysia</location>
-        <isbest>true</isbest>
-    </food>
-    <food category="" name="aahmadbasri">
-        <name>Mee Laksa</name>
-        <description>consists of various types of noodles, most commonly thick rice noodles, with toppings such as chicken, prawn or fish.</description>
-        <location>Kuala Lumpur/Malaysia</location>
-        <isbest>true</isbest>
-    </food>
-</foods>
+<PurchaseOrders>
+  <PurchaseOrder PurchaseOrderNumber="99504" OrderDate="2001-10-20">
+    <Address Type="Shipping">
+      <Name>Amy Adams</Name>
+      <Street>123 Maple Street</Street>
+      <City>Mill Valley</City>
+      <State>CA</State>
+      <Zip>10999</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>Chong Wei</Name>
+      <Street>8 Oak Avenue</Street>
+      <City>Old Town</City>
+      <State>PA</State>
+      <Zip>95819</Zip>
+      <Country>USA</Country>
+    </Address>
+    <DeliveryNotes>Please leave packages in shed by driveway.</DeliveryNotes>
+    <Items>
+      <Item PartNumber="872-AC">
+        <ProductName>Lawnmower</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>148.95</USPrice>
+        <Comment>Confirm this is electric</Comment>
+      </Item>
+      <Item PartNumber="926-AD">
+        <ProductName>Dell Monitor</ProductName>
+        <Quantity>2</Quantity>
+        <USPrice>39.98</USPrice>
+        <ShipDate>1999-05-21</ShipDate>
+      </Item>
+    </Items>
+  </PurchaseOrder>
+  <PurchaseOrder PurchaseOrderNumber="99505" OrderDate="2001-10-22">
+    <Address Type="Shipping">
+      <Name>anna kendrick</Name>
+      <Street>456 Main Street</Street>
+      <City>Buffalo</City>
+      <State>NY</State>
+      <Zip>98112</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>anna kendrick</Name>
+      <Street>456 Main Street</Street>
+      <City>Buffalo</City>
+      <State>NY</State>
+      <Zip>98112</Zip>
+      <Country>USA</Country>
+    </Address>
+    <DeliveryNotes>Please notify me before shipping.</DeliveryNotes>
+    <Items>
+      <Item PartNumber="456-NF">
+        <ProductName>Power Supply</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>45.99</USPrice>
+      </Item>
+    </Items>
+  </PurchaseOrder>
+  <PurchaseOrder PurchaseOrderNumber="99503" OrderDate="2001-10-22">
+    <Address Type="Shipping">
+      <Name>jessica alba</Name>
+      <Street>4055 Madison Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98112</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>jessica alba</Name>
+      <Street>4055 Madison Ave</Street>
+      <City>Buffalo</City>
+      <State>NY</State>
+      <Zip>98112</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Items>
+      <Item PartNumber="898-AR">
+        <ProductName>Computer Keyboard</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>29.99</USPrice>
+      </Item>
+      <Item PartNumber="898-AK">
+        <ProductName>Wireless Mouse</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>14.99</USPrice>
+      </Item>
+    </Items>
+  </PurchaseOrder>
+</PurchaseOrders>
