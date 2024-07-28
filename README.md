@@ -221,3 +221,4 @@ cd xml_parse_and_remove_tool
 'usage: [--filename "xml filename"][--check keyword]'
 'usage: [--filename "xml filename"][--remove <idx no>]'
 ```
+> python xmlsearchandremove.py --filename sample.xml --check "keyword"
