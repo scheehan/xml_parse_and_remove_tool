@@ -210,6 +210,14 @@ pip install -r requirements.txt
 ## Clone repository
 
 ```
-git clone https://github.com/scheehan/xml_viewer_editor.git
-cd xml_viewer_editor
+git clone https://github.com/scheehan/xml_parse_and_remove_tool.git
+cd xml_parse_and_remove_tool
+```
+
+## How to use the tool
+
+```
+2 features provides by this tool; search for existing element text and remove element.
+'usage: [--filename "xml filename"][--check keyword]'
+'usage: [--filename "xml filename"][--remove <idx no>]'
 ```
