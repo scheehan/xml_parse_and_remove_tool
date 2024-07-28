@@ -206,3 +206,10 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 ```
+
+## Clone repository
+
+```
+git clone https://github.com/scheehan/xml_viewer_editor.git
+cd xml_viewer_editor
+```
