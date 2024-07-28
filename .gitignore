@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# local config file
+.vscode
+
 # C extensions
 *.so
-
+xml_viewer_editor
 # Distribution / packaging
 .Python
 build/
