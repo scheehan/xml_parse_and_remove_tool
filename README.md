@@ -4,7 +4,7 @@ This article were to explain about lxml general functionality and demonstrate ho
 In the DOM, trees are built out of nodes represented as Node instances.
 Some nodes are Element instances, representing whole elements as lists.
 
-![img](/images/lxml_design.png)
+[![img](/images/lxml_design.png)](https://youtu.be/Dcp9TFzI7kg)
 
 Example XML sample file, [sample.xml](sample.xml).
 

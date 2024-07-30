@@ -1,6 +1,6 @@
 from lxml import etree
 
-import sys
+import re, sys
 
 def main():
     
